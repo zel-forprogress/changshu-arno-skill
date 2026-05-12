@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-npx skills add <owner>/<repo>@changshu-arno-perspective -g -y
+npx skills add zel-forprogress/changshu-arno-skill@changshu-arno-perspective -g -y
 ```
 
 ## 使用
